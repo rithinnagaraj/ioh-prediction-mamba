@@ -1,0 +1,13 @@
+.venv/
+checkpoints/
+drafts/
+misc/
+plots/
+processed_data_sandbox/
+training_logs/
+data_preprocessing_modal.py
+evaluate_ci.py
+mamba_image.py
+modal_image.py
+model_hybrid.py
+train_xgboost.py
