@@ -6,6 +6,7 @@ plots/
 processed_data_sandbox/
 training_logs/
 __pycache__/
+notebooks/
 *.pyc
 data_preprocessing_modal.py
 evaluate_ci.py
