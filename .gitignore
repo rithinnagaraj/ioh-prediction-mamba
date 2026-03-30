@@ -5,6 +5,8 @@ misc/
 plots/
 processed_data_sandbox/
 training_logs/
+__pycache__/
+*.pyc
 data_preprocessing_modal.py
 evaluate_ci.py
 mamba_image.py
